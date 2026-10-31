@@ -1,0 +1,7 @@
+types of join 
+inner join = match only same filed
+left join = left table all fieds and right table match filed
+right join = 
+full outer join
+self join 
+cross join
